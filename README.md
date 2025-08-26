@@ -1,4 +1,3 @@
-# 🚀 Dynamic GitHub Profile README
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Where%20creativity%20meets%20code&descAlignY=51&descAlign=50"/>
